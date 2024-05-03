@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestApp
-build_property.ProjectDir = c:\Users\Legol\Desktop\TestApp\TestApp\
+build_property.ProjectDir = C:\Users\Legol\Desktop\TestApp-Submission\TestApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
